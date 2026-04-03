@@ -1,4 +1,4 @@
-# 🎨 AI Image Generator Workflow via n8n
+# 🎨 Asa AI Image Generator Bot Workflow via n8n
 
 ## 📌 Deskripsi Singkat
 Repository ini berisi file ekspor workflow JSON untuk otomatisasi pembuatan gambar menggunakan AI (KIE AI API). Sistem ini dibangun menggunakan **n8n** dengan menerapkan arsitektur *polling loop asynchronous*, di mana workflow akan mengirimkan perintah teks (*prompt*), mengecek status pemrosesan secara berkala, dan mengirimkan hasil akhir gambar langsung ke pengguna melalui bot Telegram.
